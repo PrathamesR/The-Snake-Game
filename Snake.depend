@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1500106232 source:d:\prathamesh\programs\c and c++\hockey\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
+1510400069 source:d:\prathamesh\programs\c and c++\snake\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
+1510400372 source:e:\prathamesh\programs\c and c++\snake\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
